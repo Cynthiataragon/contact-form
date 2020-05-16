@@ -61,8 +61,21 @@ body{
 }
 .form-field:focus{
     background-color: #fff;
+    border: 2px, solid rgba(30, 85, 250, 0.47);
+}
+#comment{
+    min-height: 150px;
 }
 
+.btn{
+    width: 100%;
+    padding: 0,5rem, 1rem ;
+    font-size: 1,1rem;
+    background-color: wheat;
+    cursor: pointer;
+    outline: none;
+    border: none;
+}
 
 
 
