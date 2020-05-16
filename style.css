@@ -23,14 +23,8 @@
 }
 
 .form{
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-
-   max-width: 450px;
-   background: #FAFAFA;
-   padding: 50px;
-   margin: 50px auto;
+     background: #FAFAFA;
+  
   
 
 }
